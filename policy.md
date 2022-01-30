@@ -6,7 +6,7 @@ title: ""
 
 [Global Opportunity Index 2022: Focus on Emerging Southeast Asia](https://milkeninstitute.org/report/global-opportunity-index-2022-southeast-asia) (with Oscar Contreras & Joseph Bendix)<br>
 **_Milken Institute_**, January 2022<br>
-  * Accompanying Tableau Table & Map 
+  * Accompanying Tableau Table & Map [here](https://milkeninstitute.org/report/global-opportunity-index-2022-white-paper)
 
 [Share the Data: Overcoming Trade-Offs in Tech Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3843369) (with Claude Lopez)<br> 
 **_Milken Institute_**, March 2021<br>
