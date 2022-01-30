@@ -3,6 +3,6 @@ layout: page
 title: ""
 ---
 
-### Welcome
+## Welcome
 
 <img style="float: right;" src="assets/BenjaminSmithHeadshot.jpeg">
