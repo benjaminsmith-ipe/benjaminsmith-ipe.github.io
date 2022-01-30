@@ -5,7 +5,7 @@ title: ""
 
 ## Welcome
 
-<img style="float: right;" src="assets/BenjaminSmithHeadshot.jpeg" width="250" height="250">
+<img style="float: right;" src="assets/BenjaminSmithHeadshot.jpeg" width="350" height="350">
 
 I am a researcher at the [Milken Institute](https://milkeninstitute.org/), an economic think-tank located in Santa Monica, CA. My research focuses on the intersection between technology and finance.
 
