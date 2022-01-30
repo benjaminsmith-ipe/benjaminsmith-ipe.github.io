@@ -6,10 +6,10 @@ title: ""
 
 ## Tech Regulation Digests
 
-[December 2021: New York State's Social Media Bill & Section 230](assets/Tech Digest December PDF.pdf) (with Micah Rabin)<br>
+[December 2021: New York State's Social Media Bill & Section 230](assets/TechDigest_Dec21.pdf) (with Micah Rabin)<br>
 **_Milken Institute_**, December 2021
 
-[November 2021: Enforcing the EU's New Competition Rules](assets/Tech Digest November PDF.pdf) (with Micah Rabin)<br>
+[November 2021: Enforcing the EU's New Competition Rules](assets/TechDigest_Nov21.pdf) (with Micah Rabin)<br>
 **_Milken Institute_**, November 2021
 
 
