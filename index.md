@@ -1,4 +1,8 @@
 ---
 layout: page
-title: Welcome
+title: ""
 ---
+
+### Welcome
+
+<img style="float: right;">
