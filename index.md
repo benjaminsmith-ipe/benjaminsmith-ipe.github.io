@@ -11,5 +11,5 @@ I am a researcher at the [Milken Institute](https://milkeninstitute.org/), an ec
 
 I received an MA in Political Science from [Colorado State University](https://www.colostate.edu/) and a BA from [Keele University](https://www.keele.ac.uk/).
 
-Prior to joining the Milken Institute, I researched and wrote about trade policy issues with the [Canadian Centre for Policy Alternatives](https://www.policyalternatives.ca/) and published several opinion articles with [The National Interest](https://nationalinterest.org/). 
+Prior to joining the Milken Institute, I researched and wrote about trade policy issues with the [Canadian Centre for Policy Alternatives](https://www.policyalternatives.ca/) and published opinion articles with [The National Interest](https://nationalinterest.org/). 
 
