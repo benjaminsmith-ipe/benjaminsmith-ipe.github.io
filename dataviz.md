@@ -11,7 +11,7 @@ The table and timeline below can be used to revisit the major legislative & regu
 
 _**Market Structure**_ refers to regulatory actions and new legislation primarily aimed at addressing the structure, or composition, of different economic market segments. This includes new antitrust enforcement rules and competition laws.<br>
 
-_**Consumer Welfate**_ refers to regulatory actions and new legislation primarily aimed at addressing an issue that threatens the welfare of consumers. This includes data privacy legislation, content moderation policies, and cybersecurity rules.<br> 
+_**Consumer Welfare**_ refers to regulatory actions and new legislation primarily aimed at addressing an issue that threatens the welfare of consumers. This includes data privacy legislation, content moderation policies, and cybersecurity rules.<br> 
 
 _**Sector Specific**_ refers to regulatory actions and new legislation primarily aimed at addressing sector specific issues. This includes open banking rules and requirements for tech platforms offering financial services.
 
