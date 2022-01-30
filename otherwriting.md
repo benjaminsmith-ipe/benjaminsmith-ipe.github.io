@@ -20,7 +20,7 @@ title: ""
 [Tech Regulation & Data Sharing, Research Brief](https://milkeninstitute.org/sites/default/files/2021-08/2021_1pager_tech%26datawQR.pdf) (with Claude Lopez)<br>
 **_Milken Institute_**, August 2021
 
-[Global Opportunity Index 2021 White Paper](https://www.researchgate.net/publication/349103780_Global_Opportunity_Index_2021_White_Paper)
+[Global Opportunity Index 2021 White Paper](https://www.researchgate.net/publication/349103780_Global_Opportunity_Index_2021_White_Paper)<br>
 **_Milken Institute_**, Janaury 2021
 
 
