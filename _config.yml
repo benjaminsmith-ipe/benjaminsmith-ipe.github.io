@@ -24,7 +24,7 @@ author: Benjamin Smith
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "www.benjaminbsmith.com"
+  About: "about"
   Research:
     - Public Policy Reports: "policy"
     - Opinion Pieces: "opinion"
