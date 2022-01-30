@@ -33,4 +33,4 @@ title: ""
 **_The National Interest_**, March 2019
 
 [Trump Needs to Make up His Mind on China](https://nationalinterest.org/feature/trump-needs-make-his-mind-china-39842) (with Peter Harris)<br>
-**_The National Interest_**, December 2018**
+**_The National Interest_**, December 2018
