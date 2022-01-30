@@ -26,7 +26,7 @@ author: Benjamin Smith
 navbar-links:
   Research:
     - Public Policy Reports: "policy"
-    - Op-eds, White Papers, and Briefs: "otherwriting"
+    - Tech Policy Digests, White Papers, & Op-eds: "otherwriting"
   Data Viz: "dataviz"
 
 # --- Logo --- #
