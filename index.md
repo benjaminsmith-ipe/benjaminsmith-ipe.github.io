@@ -7,7 +7,7 @@ title: ""
 
 <img style="float: right;" src="assets/BenjaminSmithHeadshot.jpeg" width="350" height="350">
 
-I am a researcher and social scientist at the [Milken Institute](https://milkeninstitute.org/), an economic think-tank located in Santa Monica, CA. My research focuses on the intersection between technology and finance.
+I am a policy researcher and data scientist at the [Milken Institute](https://milkeninstitute.org/), an economic think-tank located in Santa Monica, CA. My research focuses on the intersection between technology and finance.
 
 I received an MA in Political Science from [Colorado State University](https://www.colostate.edu/) and a BA from [Keele University](https://www.keele.ac.uk/).
 
