@@ -5,4 +5,4 @@ title: ""
 
 ### Welcome
 
-<img style="float: right;">
+<img style="float: right;" src="assets/BenjaminSmithHeadshot.jpeg">
