@@ -6,6 +6,9 @@ title: ""
 
 ## Tech Regulation Digests
 
+[January 2022: Clamping Down: Tech M&A in the US](assets/TechDigest_Jan22.pdf) (with Micah Rabin)<br>
+**_Milken Institute_**, January 2022
+
 [December 2021: New York State's Social Media Bill & Section 230](assets/TechDigest_Dec21.pdf) (with Micah Rabin)<br>
 **_Milken Institute_**, December 2021
 
