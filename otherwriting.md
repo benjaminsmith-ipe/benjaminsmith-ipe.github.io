@@ -29,9 +29,6 @@ title: ""
 
 ## Op-eds
 
-[Canadian Mining Companies are Behaving Badly in the Global South and Wall Street is Profiting From It](https://monitormag.ca/articles/canadian-mining-companies-are-behaving-badly-in-the-global-south-and-wall-street-is-profiting-from-it)<br>
-**_The Monitor_**, April 2019
-
 [Ships Passing in the Night: The New Disconnect Between Elites and Voters on Trade](https://nationalinterest.org/feature/ships-passing-night-new-disconnect-between-elites-and-voters-trade-49592) (with Peter Harris)<br>
 **_The National Interest_**, March 2019
 
