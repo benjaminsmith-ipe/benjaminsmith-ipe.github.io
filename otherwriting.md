@@ -6,13 +6,16 @@ title: ""
 
 ## Tech Regulation Digests
 
-[January 2022: Clamping Down: Tech M&A in the US](assets/TechDigest_Jan22.pdf) (with Micah Rabin)<br>
+[February 2022: A Look Into China's New Algorithm Regulation](https://milkeninstitute.org/article/tech-regulation-digest-february-2022) (with Micah Rabin)<br>
+**_Milken Institute_**, February 2022
+
+[January 2022: Clamping Down: Tech M&A in the US](https://milkeninstitute.org/article/tech-regulation-digest-january) (with Micah Rabin)<br>
 **_Milken Institute_**, January 2022
 
-[December 2021: New York State's Social Media Bill & Section 230](assets/TechDigest_Dec21.pdf) (with Micah Rabin)<br>
+[December 2021: New York State's Social Media Bill & Section 230](https://milkeninstitute.org/article/tech-regulation-digest-december-social-media) (with Micah Rabin)<br>
 **_Milken Institute_**, December 2021
 
-[November 2021: Enforcing the EU's New Competition Rules](assets/TechDigest_Nov21.pdf) (with Micah Rabin)<br>
+[November 2021: Enforcing the EU's New Competition Rules](https://milkeninstitute.org/article/tech-regulation-digest-november-eu) (with Micah Rabin)<br>
 **_Milken Institute_**, November 2021
 
 
