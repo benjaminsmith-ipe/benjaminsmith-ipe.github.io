@@ -6,6 +6,9 @@ title: ""
 
 ## Tech Regulation Digests
 
+[March 2022: Too Much, Too Quickly? The Impact of China's Tech Regulations](https://milkeninstitute.org/article/tech-regulation-digest-march) (with Micah Rabin)<br>
+**_Milken Institute_**, March 2022
+
 [February 2022: A Look Into China's New Algorithm Regulation](https://milkeninstitute.org/article/tech-regulation-digest-february-2022) (with Micah Rabin)<br>
 **_Milken Institute_**, February 2022
 
