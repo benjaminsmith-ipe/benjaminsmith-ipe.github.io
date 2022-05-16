@@ -6,6 +6,9 @@ title: ""
 
 ## Tech Regulation Digests
 
+[April 2022: The Walled Garden's Side Door](https://milkeninstitute.org/article/apple-walled-garden-tech-digest) (with Micah Rabin)<br>
+**_Milken Institute_**, April 2022
+
 [March 2022: Too Much, Too Quickly? The Impact of China's Tech Regulations](https://milkeninstitute.org/article/tech-regulation-digest-march) (with Micah Rabin)<br>
 **_Milken Institute_**, March 2022
 
