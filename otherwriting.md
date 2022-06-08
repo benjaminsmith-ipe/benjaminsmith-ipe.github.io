@@ -6,6 +6,9 @@ title: ""
 
 ## Tech Regulation Digests
 
+[May 2022: In Name Only? The Stablecoin Market and Pending Regulation](https://milkeninstitute.org/article/stablecoin-tech-regulation-digest-may-2022) (with Micah Rabin)<br>
+**_Milken Institute_**, May 2022
+
 [April 2022: The Walled Garden's Side Door: Apple's App Store Battle](https://milkeninstitute.org/article/apple-walled-garden-tech-digest) (with Micah Rabin)<br>
 **_Milken Institute_**, April 2022
 
