@@ -11,6 +11,6 @@ I am a researcher and data scientist at the [Milken Institute](https://milkenins
 
 I received an MA in Political Science from [Colorado State University](https://www.colostate.edu/) and a BA from [Keele University](https://www.keele.ac.uk/).
 
-Prior to joining the Milken Institute, I analyzed trade policy issues with the [Canadian Centre for Policy Alternatives](https://www.policyalternatives.ca/). I have also authored several op-eds with [The National Interest](https://nationalinterest.org/). 
+Prior to joining the Milken Institute, I analyzed trade policy issues with the [Canadian Centre for Policy Alternatives](https://www.policyalternatives.ca/). I have also authored several op-eds with <br> [The National Interest](https://nationalinterest.org/). 
 
 
