@@ -13,4 +13,4 @@ I received an MA in Political Science from [Colorado State University](https://w
 
 Prior to joining the Milken Institute, I analyzed trade policy issues with the [Canadian Centre for Policy Alternatives](https://www.policyalternatives.ca/). I have also authored several op-eds with [The National Interest](https://nationalinterest.org/). 
 
-You can view my CV [here](assets/BenjaminSmithCV_Jan_22.pdf) (last updated Jan. 2022)
+
