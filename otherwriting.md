@@ -6,6 +6,9 @@ title: ""
 
 ## Tech Regulation Digests
 
+[June 2022: Time to Reassess: How Economic Headwinds are Steering China Towards Tech](https://milkeninstitute.org/article/china-tech-regulation-june-2022) (with Micah Rabin)<br>
+**_Milken Institute_**, June 2022
+
 [May 2022: In Name Only? The Stablecoin Market and Pending Regulation](https://milkeninstitute.org/article/stablecoin-tech-regulation-digest-may-2022) (with Micah Rabin)<br>
 **_Milken Institute_**, May 2022
 
